@@ -1,3 +1,10 @@
+---
+title: "LINUX基础"
+date: 2020-03-25 11:56:23 +0800
+category: LINUX
+tags: [linux]
+excerpt: linux基础命令
+---
 # 基础命令
 
 ## 服务管理
